@@ -16,7 +16,7 @@ We’ll create a simple program to demonstrate compilation and packaging in Mave
 We will be creating an `App.java` file in the `src/main/java/org/example`
 directory.
 
-```plaintext
+```text
 └── ~/developer/example-app
 		├── pom.xml
 		├── src
